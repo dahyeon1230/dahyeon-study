@@ -1,0 +1,65 @@
+
+html{
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+.moon{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 15px 15px 0 0 #ffde59;
+}
+
+.square{
+    width: 80px;
+    height: 80px;
+    background: #ffde59;
+}
+
+.rectangle{
+    width: 200px;
+    height: 100px;
+    background-color: #ffde59;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color:  #ffde59;
+    border-radius: 50%;
+}
+
+.triangle-right{
+    border-top: 50px solid transparent;
+    border-left: 100px solid #ffde59;
+    border-bottom: 50px solid transparent;
+}
+
+.check{
+    width: 19px;
+    height: 33px;
+    border: 10px solid #ffde59;
+    border-top: 0;
+    border-left: 0;
+    transform: rotate(45deg);
+}
+
+.square_1{
+    width: 40px;
+    border-bottom: 40px solid #ffde59;
+}
+
+.trapezoid_shape{
+    width: 40px;
+    border-bottom: 40px solid #ffde59;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+}
